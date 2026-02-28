@@ -1,4 +1,4 @@
-# dagi
+# DAGI
 
 **Official core repository of the Directed Acyclic Graph Informational (DAGI) framework**
 
