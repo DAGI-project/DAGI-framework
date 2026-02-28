@@ -1,31 +1,30 @@
-# DAGI Project
+# dagi
 
-**Directed Acyclic Graph Informational Framework**
+**Official core repository of the Directed Acyclic Graph Informational (DAGI) framework**
 
-[![GitHub Discussions](https://img.shields.io/badge/Discussions-Chat-blue?style=flat&logo=github)](https://github.com/DAGI-project/.github/discussions)
-[![Website](https://img.shields.io/badge/Website-dagi--project.org-brightgreen)](https://dagi-project.org)
+> Representing quantum and complex-system histories as information graphs, with tools for higher-order synergies, emergent geometry, and constraint-based control.
 
-### A unified framework for informational processes across physics, computation, and biology
+### What is DAGI?
+DAGI is a practical framework that treats physical processes as **directed acyclic graphs** of informational states and records. Key capabilities:
+- Formal ontology of branching, decoherence, and coherent record erasure
+- Möbius inversion for irreducible higher-order information content (HOIC)
+- Mappings to emergent spacetime geometry and curvature proxies
+- Hardware-validated primitives (generalized record rate / time dilation)
+- Applied extensions to biology and control (constraint interfaces, erasers & knobs)
 
-DAGI models physical and informational histories as **directed acyclic graphs** of states and records, with branching governed by durable records and merging enabled by coherent erasure. Core tools include Möbius-based higher-order information content (HOIC), emergent geometry mappings, and constraint-based control primitives.
+### Current status (February 2026)
+- Core theory and validation notebooks in active development  
+- arXiv preprints forthcoming (quant-ph / gr-qc)  
+- Provisional patents filed protecting core methods
 
-**Status**  
-- Foundational papers in final preparation for arXiv (quant-ph / gr-qc).  
-- U.S. provisional patents filed (priority secured).  
-- Open-source resources launching now.
+### Repository contents (initial)
+- `/docs` – theory notes and glossary  
+- `/notebooks` – HOIC computation examples (coming soon)  
+- `/examples` – basic usage scripts  
 
-### Quick links
-- [Official website (dagi-project.org)](https://dagi-project.org) – coming online shortly  
-- [Discussions & Q&A](https://github.com/DAGI-project/.github/discussions)  
-- [Main repository](https://github.com/DAGI-project/dagi)  
-- [Contributing guidelines](https://github.com/DAGI-project/dagi/blob/main/CONTRIBUTING.md)
+Full open-source release of non-patented components will follow arXiv publication.
 
-### Get involved
-Researchers, developers, and domain experts are welcome. See [CONTRIBUTING.md](https://github.com/DAGI-project/dagi/blob/main/CONTRIBUTING.md) for how to participate while respecting ongoing patent protection.
-
-**Commercial interest?**  
-Contact via the website form for licensing discussions.
-
----
-
-*This organization is maintained by the DAGI Project Team.*
+### Quick start
+```bash
+git clone https://github.com/DAGI-project/dagi.git
+cd dagi
